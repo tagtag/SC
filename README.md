@@ -17,3 +17,15 @@ List of files
 * Mouse_high.R : R code to indeitify mouse highly variable genes
 
 Files GSE76381_EmbryoMoleculeCounts.cef.txt.gz and GSE76381_MouseEmbryoMoleculeCounts.cef.txt.gz should be downloaded from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE76381
+
+Encihr can be accessed directly from the following URLs
+PCA based unsupervised FE
+#human
+http://amp.pharm.mssm.edu/Enrichr/enrich?dataset=3t2g4
+#mouse
+http://amp.pharm.mssm.edu/Enrichr/enrich?dataset=3t2h4
+top ranked 200 bimodal genes
+#human
+http://amp.pharm.mssm.edu/Enrichr/enrich?dataset=3t2fj
+#mouse
+http://amp.pharm.mssm.edu/Enrichr/enrich?dataset=3t264
