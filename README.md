@@ -15,6 +15,7 @@ List of files
 * Mouse_bimodal.R : R code to indeitify mouse top ranked 200 bimodal genes
 * Human_high.R : R code to indeitify human highly variable genes
 * Mouse_high.R : R code to indeitify mouse highly variable genes
+* Supplementary_document.pdf : Supplementary tables and a fiure for bimodal gene analyses
 
 Files GSE76381_EmbryoMoleculeCounts.cef.txt.gz and GSE76381_MouseEmbryoMoleculeCounts.cef.txt.gz should be downloaded from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE76381
 
