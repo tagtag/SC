@@ -3,11 +3,16 @@ Supporting information of the paper "Principal component analysis based unsuperv
 
 List of files
 * gene_GSE76381.xlsx : Genes selected by PCA based unsupervised FE
-* Enrichr_Human_GSE76381.xlsx : Various enrichment analyses by Enrichr for human genes
-* Enrichr_Mouse_GSE76381.xlsx : Various enrichment analyses by Enrichr for mouse genes
+* Enrichr_Human_GSE76381.xlsx : Various enrichment analyses by Enrichr for human genes selected by PCA based unsupervised FE
+* Enrichr_Mouse_GSE76381.xlsx : Various enrichment analyses by Enrichr for mouse genes selected by PCA based unsupervised FE
+* Enrichr_Human_GSE76381_bimodal.xlsx : Various enrichment analyses by Enrichr for human top ranked 200 bimodal genes
+* Enrichr_Mouse_GSE76381_bimodal.xlsx : Various enrichment analyses by Enrichr for mouse top ranked 200 bimodal genes
 * gene_GSE76381_higeh.xlsx : Highly variable genes
+* gene_GSE76381_bimodal.xlsx : bimodal genes
 * Human.R : R code to indeitify human genes by PCA based unsupervised FE
 * Mouse.R : R code to indeitify mouse genes by PCA based unsupervised FE
+* Human_bimodal.R : R code to indeitify human top ranked 200 bimodal genes
+* Mouse_bimodal.R : R code to indeitify mouse top ranked 200 bimodal genes
 * Human_high.R : R code to indeitify human highly variable genes
 * Mouse_high.R : R code to indeitify mouse highly variable genes
 
