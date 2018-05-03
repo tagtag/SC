@@ -7,8 +7,11 @@ List of files
 * Enrichr_Mouse_GSE76381.xlsx : Various enrichment analyses by Enrichr for mouse genes selected by PCA based unsupervised FE
 * Enrichr_Human_GSE76381_bimodal.xlsx : Various enrichment analyses by Enrichr for human top ranked 200 bimodal genes
 * Enrichr_Mouse_GSE76381_bimodal.xlsx : Various enrichment analyses by Enrichr for mouse top ranked 200 bimodal genes
+* Enrichr_Human_GSE76381_monocle.xlsx : Various enrichment analyses by Enrichr for human top ranked 200 genes that dpFature selects.
+* Enrichr_Mouse_GSE76381_monocle.xlsx : Various enrichment analyses by Enrichr for mouse top ranked 200 genes that dpFature selects.
 * gene_GSE76381_higeh.xlsx : Highly variable genes
 * gene_GSE76381_bimodal.xlsx : bimodal genes
+* gene_GSE76381_monocle.xlsx : genes selected by dpFature
 * Human.R : R code to indeitify human genes by PCA based unsupervised FE
 * Mouse.R : R code to indeitify mouse genes by PCA based unsupervised FE
 * Human_bimodal.R : R code to indeitify human top ranked 200 bimodal genes
