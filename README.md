@@ -1,5 +1,6 @@
 # SC
-Supporting information of the paper "Principal component analysis based unsupervised feature extraction applied to single cell gene expression analysis"
+Supporting information of the paper "Principal component analysis based unsupervised feature extraction applied to single cell gene expression analysis"  
+https://www.biorxiv.org/content/early/2018/05/02/312892  
 
 List of files
 * gene_GSE76381.xlsx : Genes selected by PCA based unsupervised FE
