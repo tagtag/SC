@@ -17,7 +17,6 @@ HSMM <- reduceDimension(HSMM,
                               norm_method = 'log',
                               num_dim = 3,
                               reduction_method = 'tSNE',
-                              check_duplicates = F, #mouse
                               verbose = T)
 HSMM <- clusterCells(HSMM,
                  rho_threshold = 2,
