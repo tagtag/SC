@@ -1,5 +1,8 @@
 # SC
-Supporting information of the paper "Principal component analysis based unsupervised feature extraction applied to single cell gene expression analysis"  
+Supporting information of the paper
+
+Taguchi Y. (2018) Principal Component Analysis-Based Unsupervised Feature Extraction Applied to Single-Cell Gene Expression Analysis. In: Huang DS., Jo KH., Zhang XL. (eds) Intelligent Computing Theories and Application. ICIC 2018. Lecture Notes in Computer Science, vol 10955. Springer, Cham
+https://doi.org/10.1007/978-3-319-95933-7_90
 https://www.biorxiv.org/content/early/2018/05/02/312892  
 
 List of files
